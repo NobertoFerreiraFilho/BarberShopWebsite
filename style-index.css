@@ -1,7 +1,10 @@
+
+
 body {
 	font-family: 'Montserrat', sans-serif;
 }
 
+/*Styling Navbar*/
 header {
 	background: #BBBBBB;
 	padding: 0.5rem 0;
@@ -52,4 +55,39 @@ nav .current{
 .banner {
 	width:100%;
     margin-top: 0.5rem;
+}
+
+/*Styling página inicial - section  SOBRE*/
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 95%;
+    max-width: 1200px;
+	margin: 0 auto;
+}
+
+.principal p {
+	margin: 0 0 1em;
+    line-height: 1.3rem;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.principal em {
+	font-style: italic;
+}
+
+.utensilios {
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
 }
