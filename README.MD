@@ -29,7 +29,7 @@ This project was implemented by Noberto Ferreira Filho as an exercise during Alu
   <li>Responsive Navbar with dynamic styling - Query + pseudo-class</li>
   <li>Flexbox layout</li>
   <li>Use of semantic tags: Header, Main, Footer, Section and Nav</li>
-  <li>Use of emphase tags: <em> and <strong></li>
+  <li>Use of emphase tags: 'em' and 'strong'</li>
   <li>Incorporating MAP with <iframe> - Google maps</li>
   <li>Incorporating Videos with <iframe> - Youtube</li>
   <li>Float positioning</li>
