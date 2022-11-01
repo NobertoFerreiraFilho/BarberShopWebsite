@@ -48,3 +48,8 @@ nav a:hover {
 nav .current{
     font-weight: 900;
 }
+
+.banner {
+	width:100%;
+    margin-top: 0.5rem;
+}
