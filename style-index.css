@@ -1,0 +1,50 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: #BBBBBB;
+	padding: 0.5rem 0;
+}
+
+.caixa {
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+	width: 95%;
+    max-width: 1200px;
+	margin: 0 auto;
+    height: 100px;
+
+}
+
+.logo {
+    height: 100px;
+}
+
+nav ul {
+	display: flex;
+    margin-right: 1rem;
+}
+
+nav li {
+	display: flex;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	scale: 1.1;
+}
+
+nav .current{
+    font-weight: 900;
+}
