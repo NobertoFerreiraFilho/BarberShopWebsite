@@ -1,12 +1,13 @@
-
-
 body {
 	font-family: 'Montserrat', sans-serif;
+    background: #BBBBBB;
+    box-shadow: inset 0px 0px 50px 10px rgba(0,0,0, 0.5);
 }
 
 /*Styling Navbar*/
 header {
 	background: #BBBBBB;
+    box-shadow: inset 0px 0px 50px 10px rgba(0,0,0, 0.5);
 	padding: 0.5rem 0;
 }
 
@@ -27,11 +28,14 @@ header {
 nav ul {
 	display: flex;
     justify-content: space-evenly;
+    align-items: stretch;
     margin-right: 1rem;
+
 }
 
 nav li {
 	display: flex;
+    align-items: center;
 	margin: 0 0 0 35px;
 }
 
@@ -43,8 +47,8 @@ nav a {
 	text-decoration: none;
 }
 
-nav a:hover {
-	color: #C78C19;
+nav a:hover:not(.current){
+	color: rgba(120,120,120, 1);
 	scale: 1.1;
 }
 
@@ -66,11 +70,12 @@ nav .current{
 }
 
 .principal {
-	padding-top: 2rem;
-	background: #FEFEFE;
+	padding: 1rem;
+	background: rgba(250,250,250,0.5);
 	width: 95%;
     max-width: 1200px;
-	margin: 0 auto;
+	margin: 0.5rem auto;
+    border-radius: 10px;
 }
 
 .principal p {
@@ -96,7 +101,6 @@ nav .current{
 
 .mapa {
 	padding-top: 2rem;
-	background: linear-gradient(#FEFEFE, #888888);
 }
 
 .mapa-conteudo {
@@ -105,6 +109,6 @@ nav .current{
 }
 
 .mapa p {
-	margin: 0 0 2em;
+	margin: 0 0 1.5rem;
 	text-align: center;
 }
