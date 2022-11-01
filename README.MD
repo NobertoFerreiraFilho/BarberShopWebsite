@@ -19,7 +19,7 @@ This project was implemented by Noberto Ferreira Filho as an exercise during Alu
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Home-page.jpg#vitrinedev' width=250/> <img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Product-page.jpg#vitrinedev' width=450/>
 
 ## Project Details
 ### Homepage Features and Lessons Learned
