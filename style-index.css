@@ -18,7 +18,6 @@ header {
     max-width: 1200px;
 	margin: 0 auto;
     height: 100px;
-
 }
 
 .logo {
@@ -27,12 +26,13 @@ header {
 
 nav ul {
 	display: flex;
+    justify-content: space-evenly;
     margin-right: 1rem;
 }
 
 nav li {
 	display: flex;
-	margin: 0 0 0 15px;
+	margin: 0 0 0 35px;
 }
 
 nav a {
@@ -60,13 +60,13 @@ nav .current{
 /*Styling página inicial - section  SOBRE*/
 .titulo-principal {
 	text-align: center;
-	font-size: 2em;
-	margin: 0 0 1em;
+	font-size: 2rem;
+	margin: 0 0 1rem;
 	clear: left;
 }
 
 .principal {
-	padding: 3em 0;
+	padding-top: 2rem;
 	background: #FEFEFE;
 	width: 95%;
     max-width: 1200px;
@@ -74,7 +74,7 @@ nav .current{
 }
 
 .principal p {
-	margin: 0 0 1em;
+	margin: 0 0 1rem;
     line-height: 1.3rem;
 }
 
@@ -89,5 +89,22 @@ nav .current{
 .utensilios {
 	width: 120px;
 	float: left;
-	margin: 0 20px 20px 0;
+	margin: 0 1rem 0 0;
+}
+
+/*Styling página inicial - section  MAP*/
+
+.mapa {
+	padding-top: 2rem;
+	background: linear-gradient(#FEFEFE, #888888);
+}
+
+.mapa-conteudo {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
 }
