@@ -227,7 +227,7 @@ footer {
 	padding: 40px 0;
 }
 
-.copyright {
+.copyright, .presentation {
     color: #FFFFFF;
 	font-size: 13px;
 	margin: 20px 0 0;
