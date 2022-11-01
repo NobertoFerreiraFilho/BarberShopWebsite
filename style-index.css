@@ -6,6 +6,8 @@ body {
 	font-family: 'Montserrat', sans-serif;
     background: #BBBBBB;
     box-shadow: inset 0px 0px 50px 10px rgba(0,0,0, 0.5);
+    display: flex;
+    flex-direction: column;
 }
 
 /*Styling Navbar*/
@@ -62,7 +64,8 @@ nav .current{
 
 .banner {
 	width:100%;
-    margin-top: 0.5rem;
+    margin: 0.5rem auto;
+    max-width: 1200px;
 }
 
 /*Styling página inicial - section  SOBRE*/
@@ -179,7 +182,23 @@ nav .current{
 	opacity: 0.3;
 }
 
+.inpiracoes{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto;
+    width: 100%;
+}
+
 .video {
-	width: 560px;
-	margin: 2em auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+	width: 95%;
+    max-width: 1200px;
+	margin: 0.5rem auto;
+    border-radius: 10px;
+}
+
+.video > iframe{
+    margin: 1rem;
 }
