@@ -66,6 +66,8 @@ nav .current{
     text-decoration: underline;
 }
 
+/*Styling banner*/
+
 .banner {
     width:100%;
     margin: auto;
@@ -190,6 +192,8 @@ nav .current{
     opacity: 0.3;
 }
 
+/*Styling página inicial - section inspiracoes*/
+
 .inpiracoes{
     display: flex;
     flex-direction: column;
@@ -214,6 +218,7 @@ nav .current{
     min-width: 350px;
 }
 
+
 /*Styling o Footer*/
 
 footer {
@@ -227,6 +232,8 @@ footer {
 	font-size: 13px;
 	margin: 20px 0 0;
 }
+
+
 
 
 @media screen and (max-width:600px) {
