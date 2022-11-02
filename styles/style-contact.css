@@ -57,3 +57,20 @@ fieldset{
 	background: rgba(0,50, 140, 0.5);
 	transform: scale(1.1);
 }
+
+table {
+	margin: 2rem auto;
+    font-size: 1.5rem;
+}
+
+thead {
+    background: rgba(150,150,150,0.5);
+    text-align: center;
+}
+
+td, th {
+    border: 1px solid #000000;
+	padding: 8px 15px;
+    font-weight: bold;
+    color: rgba(20,20,20,0.8);
+}
