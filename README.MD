@@ -1,6 +1,8 @@
 # Barbershop WebSite with HTML and CSS
 ![LastModifyBadge](https://img.shields.io/github/last-commit/NobertoFerreiraFilho/BarberShopWebsite?style=plastic)
 
+<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif' width=450/> <br/>
+
 A Responsive Website using HTML5 and CSS3 in order to train and develop my coding skills.
 This project was implemented by Noberto Ferreira Filho as an exercise during Alura course "HTML5 and CSS3".
 
