@@ -7,7 +7,7 @@ A Responsive Website using HTML5 and CSS3 in order to train and develop my codin
 | :sparkles: Name        | **Barbershop WebSite with HTML and CSS**
 | :label: Technologies | HTML, CSS and Flexbox
 
-![](https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif#vitrinedev)
+![](https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif)
 
 <p align='center'>
 <img src='https://img.shields.io/github/last-commit/NobertoFerreiraFilho/BarberShopWebsite?style=plastic'>
@@ -20,7 +20,7 @@ A Responsive Website using HTML5 and CSS3 in order to train and develop my codin
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ## Project Album
 ### Homepage <br/>
-<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Home-page.jpg#vitrinedev' width=450/> <br/>
+<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Home-page.jpg#vitrinedev#vitrinedev' width=450/> <br/>
 ### Product Page<br/>
 <img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Product-page.jpg#vitrinedev' width=450/><br/>
 ### Contact Page<br/>
