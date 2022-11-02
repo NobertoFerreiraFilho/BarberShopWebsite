@@ -1,24 +1,21 @@
 # Barbershop WebSite with HTML and CSS
-![LastModifyBadge](https://img.shields.io/github/last-commit/NobertoFerreiraFilho/BarberShopWebsite?style=plastic)
 
-<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif' width=450/> <br/>
+A Responsive Website using HTML5 and CSS3 in order to train and develop my coding skills. This project was implemented by Noberto Ferreira Filho as an exercise during Alura course "HTML5 and CSS3".
 
-A Responsive Website using HTML5 and CSS3 in order to train and develop my coding skills.
-This project was implemented by Noberto Ferreira Filho as an exercise during Alura course "HTML5 and CSS3".
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Name        | **Barbershop WebSite with HTML and CSS**
+| :label: Technologies | HTML, CSS and Flexbox
+
+![](https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif#vitrinedev)
 
 <p align='center'>
+<img src='https://img.shields.io/github/last-commit/NobertoFerreiraFilho/BarberShopWebsite?style=plastic'>
 <img src='https://img.shields.io/static/v1?label=Status&message=OnGoing&color=yellow'>
 <img src='https://img.shields.io/github/stars/NobertoFerreiraFilho/BarberShopWebsite'>
 <img src='https://img.shields.io/github/forks/NobertoFerreiraFilho/BarberShopWebsite'>
 <img src='https://img.shields.io/github/issues/NobertoFerreiraFilho/BarberShopWebsite'>
 </p>
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Name        | **Barbershop WebSite with HTML and CSS**
-| :label: Technologies | HTML and CSS
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ## Project Album
