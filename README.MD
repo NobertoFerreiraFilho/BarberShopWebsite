@@ -25,23 +25,30 @@ This project was implemented by Noberto Ferreira Filho as an exercise during Alu
 ### Homepage <br/>
 <img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Home-page.jpg#vitrinedev' width=450/> <br/>
 ### Product Page<br/>
-<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Product-page.jpg#vitrinedev' width=450/>
+<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Product-page.jpg#vitrinedev' width=450/><br/>
+### Contact Page<br/>
+<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Contact-page.jpg#vitrinedev' width=450/><br/>
 
 ## Project Details
 ### Features and Lessons Learned
 
 <ul>
   <li>External stylesheet + reset Stylesheet</li>
-  <li>Responsive Navbar with dynamic styling - Query + pseudo-class</li>
-  <li>Flexbox layout</li>
+  <li>Animation: pseudo-class</li>
   <li>Use of semantic tags: Header, Main, Footer, Section and Nav</li>
   <li>Use of emphase tags: 'em' and 'strong'</li>
   <li>Incorporating MAP with <iframe> - Google maps</li>
   <li>Incorporating Videos with <iframe> - Youtube</li>
   <li>Float positioning</li>
-  <li>Gradient styling</li>
 </ul>
 
+### EXTRA: Features and Lessons Learned beyond course
+<ul>
+  <li>Flexbox</li>
+  <li>Gradient styling</li>
+  <li>Responsive layout and styling with Media Query</li>
+</ul>
+ 
 ## Technics, Technologies and Dependences used:
 
 <ul style='display:flex; flex-wrap: wrap; justify-content:center;'>
