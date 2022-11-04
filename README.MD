@@ -22,9 +22,9 @@ A Responsive Website using HTML5 and CSS3 in order to train and develop my codin
 ### Homepage <br/>
 <img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Home-page.jpg#vitrinedev#vitrinedev' width=450/> <br/>
 ### Product Page<br/>
-<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Product-page.jpg#vitrinedev' width=450/><br/>
+<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Product-page.jpg' width=450/><br/>
 ### Contact Page<br/>
-<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Contact-page.jpg#vitrinedev' width=450/><br/>
+<img src='https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/Contact-page.jpg' width=450/><br/>
 
 ## Project Details
 ### Features and Lessons Learned
